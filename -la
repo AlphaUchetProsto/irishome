@@ -1,0 +1,83 @@
+[33mcommit 6cd4aa0bd6dd0bcb1577d6437f8581609f360529[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alexander Nimgirov <alexander.nimgirov@yandex.ru>
+Date:   Mon Jun 19 12:03:38 2023 +0300
+
+    Обновление клиента для приложения
+
+[33mcommit a681bd25c0de90f184f24582273791919c7f0290[m
+Author: Alexander Nimgirov <alexander.nimgirov@yandex.ru>
+Date:   Tue Jan 24 12:05:45 2023 +0300
+
+    Обновление 2023
+
+[33mcommit 2a7697f1aa632716e5ee14cc28d080d46ea5b9a7[m
+Author: Alexander <alexander.nimgirov@yandex.ru>
+Date:   Wed Sep 14 09:51:08 2022 +0300
+
+    Обновление модуля для приложений
+
+[33mcommit a24c491c9743b45e237b7c3a20c07d897d31c0ac[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Sun Aug 21 13:16:56 2022 +0300
+
+    Обновление bootstrap с 4 до 5
+
+[33mcommit 4ba5fe7404cdf3493f7e96b46e55f952bebd2c3f[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Sun Aug 21 12:56:45 2022 +0300
+
+    Удаление модуля bitrix-app и tilda, взамен добавлен модуль handle_post(Который обрабатывает все post запросы и распределяет по контроллерам). Добавлены модули interface-app и no-inteface-app
+
+[33mcommit 9cc143ab77b3dc56115499b754e7028d435b4887[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Thu Jun 23 21:19:08 2022 +0300
+
+    Добавление метода поиска дубликатов Лида
+
+[33mcommit 92a4612c9f358cc172b77ac1ca45119d313a43e5[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Fri Jun 17 13:27:31 2022 +0300
+
+    Исправление бага очистики логов
+
+[33mcommit fe603e1a12c2dbc17449c26f29a24c6e0184eeb4[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Fri Jun 17 12:59:50 2022 +0300
+
+    Обновление логики поиска дубликатов контактов
+
+[33mcommit 593dcce9e45728ab21f0cceb64ab7e768cc55261[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Thu Jun 16 16:24:59 2022 +0300
+
+    Рефакторинг кода
+
+[33mcommit 4be8f49b19c83dcdb9826c0563331ccff6567478[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Mon Jun 6 18:00:56 2022 +0300
+
+    Создание шаблона для обработки форм Тильда
+
+[33mcommit 0fd5c6e7e5b82d2c6520b8b8e1968e29c0572bb9[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Mon Jun 6 15:20:43 2022 +0300
+
+    Создание модуля Тильда
+
+[33mcommit 7de4ea307a8f7f9564c7386b0642a9a15cc1a159[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Mon Jun 6 15:10:24 2022 +0300
+
+    Добавление чистильщика логов
+
+[33mcommit 6b6b193feccb5c005ed570199b999410414a59e0[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Mon Jun 6 01:12:10 2022 +0300
+
+    Добавление модели логера Битрикс 24 и подключение логирования
+
+[33mcommit 7b819918ae1de8f3c572febfdbc4e708c485eae3[m
+Author: Александр Нимгиров <alexander.nimgirov@yandex.ru>
+Date:   Sun Jun 5 18:58:11 2022 +0300
+
+    Создание шаблон портала
